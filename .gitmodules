@@ -1,0 +1,3 @@
+[submodule "static/mini-proj"]
+	path = static/mini-proj
+	url = https://github.com/shetty-shreyas-udaya/mini-proj.git
